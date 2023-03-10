@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f27f21ff-fb30-402b-b35b-85c9d3e99db8" name="Changes" comment="qweqweq" />
+    <list default="true" id="f27f21ff-fb30-402b-b35b-85c9d3e99db8" name="Changes" comment="qweqweq">
+      <change beforePath="$PROJECT_DIR$/lib/rating_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rating_dialog.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678441724025</updated>
-      <workItem from="1678441726090" duration="798000" />
+      <workItem from="1678441726090" duration="983000" />
     </task>
     <task id="LOCAL-00001" summary="qweqweq">
       <created>1678442225294</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678442513500</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="qweqweq">
+      <created>1678442535014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678442535014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">

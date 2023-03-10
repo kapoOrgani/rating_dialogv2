@@ -132,8 +132,8 @@ class _RatingDialogState extends State<RatingDialog> {
                         minLines: 1,
                         maxLines: 5,
                         decoration: InputDecoration(
-                          hintText: "qwelk",
-                          fillColor: Colors.red,
+                          hintText: widget.commentHint,
+                          fillColor: widget.starColor,
                           filled: true
                         ),
                       )
