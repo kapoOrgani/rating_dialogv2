@@ -33,6 +33,7 @@ class RatingDialog extends StatefulWidget {
 
   /// The comment's TextField hint text
   final String commentHint;
+  final Color? backgroundColor;
 
   /// The submit button's label/text
   final String submitButtonText;
@@ -49,6 +50,7 @@ class RatingDialog extends StatefulWidget {
   const RatingDialog({
     required this.title,
     this.message,
+    this.backgroundColor,
     this.image,
     required this.submitButtonText,
     this.submitButtonTextStyle = const TextStyle(
@@ -133,7 +135,7 @@ class _RatingDialogState extends State<RatingDialog> {
                         maxLines: 5,
                         decoration: InputDecoration(
                           hintText: widget.commentHint,
-                          fillColor: widget.starColor,
+                          fillColor: widget.backgroundColor,
                           filled: true
                         ),
                       )
