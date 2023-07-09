@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f27f21ff-fb30-402b-b35b-85c9d3e99db8" name="Changes" comment="qweqweq">
-      <change beforePath="$PROJECT_DIR$/lib/rating_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rating_dialog.dart" afterDir="false" />
+    <list default="true" id="f27f21ff-fb30-402b-b35b-85c9d3e99db8" name="Changes" comment="backgroundColor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1678441724025</updated>
       <workItem from="1678441726090" duration="983000" />
+      <workItem from="1688450738230" duration="1402000" />
+      <workItem from="1688569454045" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="qweqweq">
       <created>1678442225294</created>
@@ -83,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1678442535014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="backgroundColor">
+      <option name="closed" value="true" />
+      <created>1688450938630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688450938630</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -97,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="qweqweq" />
-    <option name="LAST_COMMIT_MESSAGE" value="qweqweq" />
+    <MESSAGE value="backgroundColor" />
+    <option name="LAST_COMMIT_MESSAGE" value="backgroundColor" />
   </component>
 </project>

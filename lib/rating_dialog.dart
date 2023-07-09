@@ -130,9 +130,8 @@ class _RatingDialogState extends State<RatingDialog> {
                     ? TextField(
                         controller: _commentController,
                         textAlign: TextAlign.center,
-                        textInputAction: TextInputAction.newline,
+                        textInputAction: TextInputAction.done,
                         minLines: 1,
-                        maxLines: 5,
                         decoration: InputDecoration(
                           hintText: widget.commentHint,
                           fillColor: widget.backgroundColor,
